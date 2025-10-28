@@ -1,0 +1,3 @@
+data types dalam javascript di bagi menjadi dua yaitu primitive dan complex.
+  primitive yaitu null, undefined, boolean, number, bigint, string, symbol.
+  complex yaitu object.
